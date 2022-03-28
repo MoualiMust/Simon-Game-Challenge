@@ -3,6 +3,12 @@ body {
   background-color: #011F3F;
 }
 
+a{
+  font-family: 'Press Start 2P', cursive;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
@@ -50,4 +56,15 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+.rules{
+  font-family: 'Press Start 2P', cursive;
+  margin:  5%;
+  color: #FEF2BF;
+  text-align: left;
+}
+
+li {
+  line-height: 2.5;
 }
